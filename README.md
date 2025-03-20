@@ -1,4 +1,4 @@
-# Gita
+# ThinkRAG
 
 This repository contains the implementation of the RAG (Retrieval-Augmented Generation) approach along with Reasoning, as described in the paper "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions" by ([authors](https://arxiv.org/pdf/2212.10509)).
 
