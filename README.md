@@ -23,3 +23,5 @@ Note: You can connect any external source of data by modifying the relevant code
 Future direction:
 - Can add query classifiers that categorizes incoming questions as either "explicit fact queries" or "complex reasoning queries.
 - The project can be extended to incorporate external tools for additional functionality.
+
+Read more : [Mastering IRCoT: Interleaved Retrieval with Chain-of-Thought for Advanced AI Systems](https://medium.com/p/24acc615272e)
